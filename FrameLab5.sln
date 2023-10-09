@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameLab5", "FrameLab5.csproj", "{01BE31E2-B042-4A87-B621-38D135DFCDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BE31E2-B042-4A87-B621-38D135DFCDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BE31E2-B042-4A87-B621-38D135DFCDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BE31E2-B042-4A87-B621-38D135DFCDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BE31E2-B042-4A87-B621-38D135DFCDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10442CC-E34A-4661-9E16-0966168C9351}
+	EndGlobalSection
+EndGlobal
